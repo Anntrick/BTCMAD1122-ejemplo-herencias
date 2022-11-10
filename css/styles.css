@@ -1,0 +1,44 @@
+
+
+.div0 {
+    background-color: brown;
+    height: 100px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+
+#divDos {
+    box-sizing: border-box;
+    background-image: url('../img/luna.jpg');
+    width: 500px;
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: cover;
+
+}
+
+
+body {
+    background-color: rgb(66, 3, 124);
+}
+
+.prueba-back {
+    width: 28%;
+    margin: 2%;
+    height: 500px;
+    box-shadow: 1px 1px;
+    display: inline-block;
+    box-shadow: 8px 9px 18px black;
+    background-image: url(../img/bckHelado.jpg);
+}
+
+#centro {
+    background-position: center;
+}
+
+#izq {
+    background-position: bottom;
+}
